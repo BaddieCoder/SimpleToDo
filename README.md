@@ -30,8 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Setting up Android Studio took a great deal of time however the features weren't that difficult to implement after the initial setup.
 
 ## License
 
