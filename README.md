@@ -29,8 +29,7 @@ Here's a walkthrough of implemented user stories:
 <img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-## Notes
-Setting up Android Studio took a great deal of time however the features weren't that difficult to implement after the initial setup.
+
 
 ## License
 
